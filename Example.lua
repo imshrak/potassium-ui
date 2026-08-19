@@ -4,7 +4,7 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/imshrak/potassium-ui/main/Library.lua"))()
 ]]
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/<user>/potassium-ui/main/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/imshrak/potassium-ui/main/Library.lua"))()
 
 -- Create the window
 local Window = Library:CreateWindow({
