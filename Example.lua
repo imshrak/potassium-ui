@@ -81,7 +81,7 @@ EspTab:AddToggle("BoxESP", {
     Callback = function(v) print("Box ESP:", v) end,
 })
 
-EspTag:AddToggle("NameESP", {
+EspTab:AddToggle("NameESP", {
     Text = "Name ESP",
     Default = true,
     Callback = function(v) print("Name ESP:", v) end,
