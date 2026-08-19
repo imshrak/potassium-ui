@@ -27,7 +27,7 @@ Library.Scheme = {
     DarkColor = Color3.fromRGB(16, 16, 18),
     WhiteColor = Color3.fromRGB(214, 214, 216),
     RedColor = Color3.fromRGB(240, 106, 99),
-    Font = Font.fromEnum(Enum.Font.Code),
+    Font = Enum.Font.Code,
 }
 
 local CORNER_RADIUS = UDim.new(0, 4)
