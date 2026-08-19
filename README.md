@@ -15,7 +15,7 @@ A Potassium-styled UI library for Roblox exploits. Single file, loadstring-frien
 ## Quick Start
 
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/<user>/potassium-ui/main/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/imshrak/potassium-ui/main/Library.lua"))()
 
 local Window = Library:CreateWindow({
     Title = "My Script",
